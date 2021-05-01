@@ -1,0 +1,2 @@
+Make	Model	Year	Color	Mileage
+linc	avi	20	white	20
