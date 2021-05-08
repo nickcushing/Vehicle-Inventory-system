@@ -43,9 +43,9 @@ while True:
     print('#2 Delete Vehicle from Inventory')
     print('#3 View Current Inventory')
     print('#4 Update Vehicle in Inventory')
-    print('#5 Export Current Inventory')
+    print('#5 Create List of Current Inventory')
     print('#6 Quit')
-    userInput=input('Please choose from one of the above options: ') 
+    userInput=input('Please choose from one of the options above: ') 
     if userInput=="1": 
         #add a vehicle
         inventory.addVehicle()
